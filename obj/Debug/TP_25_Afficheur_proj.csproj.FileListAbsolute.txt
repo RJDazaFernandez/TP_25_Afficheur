@@ -1,0 +1,10 @@
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.Form1.resources
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.Properties.Resources.resources
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.csproj.GenerateResource.cache
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.csproj.CoreCompileInputs.cache
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\bin\Debug\TP_25_Afficheur_proj.exe.config
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\bin\Debug\TP_25_Afficheur_proj.exe
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\bin\Debug\TP_25_Afficheur_proj.pdb
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.exe
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.pdb
+D:\dazar.SNIRW\TP\Delbosc\TP 25 Afficheur\TP_25_Afficheur_proj\obj\Debug\TP_25_Afficheur_proj.csproj.AssemblyReference.cache
