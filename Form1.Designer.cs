@@ -33,6 +33,7 @@ namespace TP_25_Afficheur_proj
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
             this.ButtonAfficher = new System.Windows.Forms.Button();
             this.textBoxTextAfficher = new System.Windows.Forms.TextBox();
+            this.listBox = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // serialPort1
@@ -57,15 +58,32 @@ namespace TP_25_Afficheur_proj
             this.textBoxTextAfficher.TabIndex = 1;
             this.textBoxTextAfficher.TextChanged += new System.EventHandler(this.textBoxTextAfficher_TextChanged);
             // 
-            // SerialPort1
-            //
-            this.serialPort1.PortName= "COM3";
-            //
+            // listBox
             // 
+            this.listBox.FormattingEnabled = true;
+            this.listBox.Items.AddRange(new object[] {
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k"});
+            this.listBox.Location = new System.Drawing.Point(151, 166);
+            this.listBox.Name = "listBox";
+            this.listBox.Size = new System.Drawing.Size(120, 95);
+            this.listBox.TabIndex = 2;
+            this.listBox.SelectedIndexChanged += new System.EventHandler(this.listBox_SelectedIndexChanged);
+            // 
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox);
             this.Controls.Add(this.textBoxTextAfficher);
             this.Controls.Add(this.ButtonAfficher);
             this.Name = "Form1";
@@ -80,6 +98,7 @@ namespace TP_25_Afficheur_proj
         private System.IO.Ports.SerialPort serialPort1;
         private System.Windows.Forms.Button ButtonAfficher;
         private System.Windows.Forms.TextBox textBoxTextAfficher;
+        private System.Windows.Forms.ListBox listBox;
     }
 }
 
